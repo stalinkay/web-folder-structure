@@ -1,3 +1,3 @@
-# 04 – Branding
+# 05 – Design
 
-This is where I like to keep all the files received by the client when discussing ideas about the look and feel of the site. So any fonts, branding guidelines or logo’s that the client currently has are dropped in here.
+This is usually the folder that contains the initial bulk of the project work by myself. The graphic folder contained within here is where any creative work that I design live (including PSD layouts or wireframes).
